@@ -1,0 +1,128 @@
+{
+  "5150403377": [
+    {
+      "skin_code": "Uh",
+      "modifier": 46,
+      "stickers": [],
+      "id": "41c19092-8245-41e2-89f4-7da4a01e44b2"
+    },
+    {
+      "skin_code": "GG",
+      "modifier": 46,
+      "stickers": [
+        {
+          "code": "Uh",
+          "slot": 0
+        },
+        {
+          "code": "Uh",
+          "slot": 1
+        }
+      ],
+      "id": "edaeb4b9-4b60-4437-a38c-9e122d6e885c"
+    },
+    {
+      "skin_code": "Uh",
+      "modifier": 46,
+      "stickers": [
+        {
+          "code": "Xz",
+          "slot": 0
+        }
+      ],
+      "id": "df76c01e-e7de-4d4b-a248-cd9c256f73a7"
+    },
+    {
+      "skin_code": "Xz",
+      "modifier": 46,
+      "stickers": [
+        {
+          "code": "Uh",
+          "slot": 0
+        },
+        {
+          "code": "Uh",
+          "slot": 1
+        },
+        {
+          "code": "Uh",
+          "slot": 2
+        },
+        {
+          "code": "Uh",
+          "slot": 3
+        }
+      ],
+      "id": "ba966f9e-a40e-40fa-b03d-87987490341c"
+    },
+    {
+      "skin_code": "Xz",
+      "modifier": 46,
+      "stickers": [
+        {
+          "code": "Uh",
+          "slot": 0
+        },
+        {
+          "code": "Uh",
+          "slot": 1
+        },
+        {
+          "code": "Uh",
+          "slot": 2
+        },
+        {
+          "code": "Uh",
+          "slot": 3
+        }
+      ],
+      "id": "e0810610-382e-4e37-950e-42badedc9f3b"
+    },
+    {
+      "skin_code": "Xz",
+      "modifier": 46,
+      "stickers": [
+        {
+          "code": "Uh",
+          "slot": 0
+        },
+        {
+          "code": "Uh",
+          "slot": 1
+        },
+        {
+          "code": "Uh",
+          "slot": 2
+        },
+        {
+          "code": "Uh",
+          "slot": 3
+        }
+      ],
+      "id": "93a891a4-454a-4eba-a358-12b3f637ae4b"
+    },
+    {
+      "skin_code": "Xz",
+      "modifier": 46,
+      "stickers": [
+        {
+          "code": "Uh",
+          "slot": 0
+        },
+        {
+          "code": "Uh",
+          "slot": 1
+        },
+        {
+          "code": "Uh",
+          "slot": 2
+        },
+        {
+          "code": "Uh",
+          "slot": 3
+        }
+      ],
+      "id": "5082fa78-4982-46cd-bb02-f2cf8546aca6"
+    }
+  ]
+}

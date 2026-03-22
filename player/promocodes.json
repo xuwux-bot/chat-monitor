@@ -1,0 +1,63 @@
+{
+  "TEST": {
+    "name": "TEST",
+    "created_at": "2026-03-15T17:58:54.919522",
+    "expires_at": "2026-03-15T18:58:31.020718",
+    "max_uses": 1,
+    "used_count": 1,
+    "reward": {
+      "type": "tokens",
+      "amount": 10
+    },
+    "created_by": 5150403377,
+    "message_id": 7,
+    "chat_id": -1003794566054
+  },
+  "HUI": {
+    "name": "HUI",
+    "created_at": "2026-03-16T14:59:27.115585",
+    "expires_at": "2026-03-16T15:59:11.894426",
+    "max_uses": 5,
+    "used_count": 4,
+    "rewards": [
+      {
+        "type": "coins",
+        "amount": 3000
+      },
+      {
+        "type": "tokens",
+        "amount": 23
+      },
+      {
+        "type": "skins",
+        "items": [
+          {
+            "skin_code": "Xz",
+            "modifier": 46,
+            "stickers": [
+              {
+                "code": "Uh",
+                "slot": 0
+              },
+              {
+                "code": "Uh",
+                "slot": 1
+              },
+              {
+                "code": "Uh",
+                "slot": 2
+              },
+              {
+                "code": "Uh",
+                "slot": 3
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "created_by": 5150403377,
+    "message_id": 9,
+    "chat_id": -1003794566054
+  }
+}
